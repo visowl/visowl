@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GARRY Freddy</h1>
-<h3 align="center">DATA SCIENCES</h3>
+<h3 align="center">DATA </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
